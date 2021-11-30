@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B60D8D90-4935-81B5-8656-A0A1E60D5786}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LostMemories",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
